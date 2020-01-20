@@ -5,5 +5,5 @@
               version="1.0">
 <role rolename="admin-gui" />
 <role rolename="manager-gui" />
- <user username="tomcat" password="passw0rd" roles="manager,manager-gui,admin-gui"/>
+<user username="tomcat" password="passw0rd" roles="manager,manager-gui,admin-gui"/>
 </tomcat-users>
